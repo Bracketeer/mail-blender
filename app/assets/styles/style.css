@@ -1,0 +1,13 @@
+.lorem {
+  text-align: justify;
+}
+body {
+  background-color: #e8e8e8;
+}
+.row {
+  paddiing: 10px;
+}
+.templatebanner {
+  background: #3b7cc8;
+  padding: 5px;
+}
